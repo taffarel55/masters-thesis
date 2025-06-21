@@ -1,3 +1,4 @@
 [submodule "private-files"]
 	path = private-files
 	url = git@github.com:taffarel55/private-masters-thesis.git
+	branch = main
