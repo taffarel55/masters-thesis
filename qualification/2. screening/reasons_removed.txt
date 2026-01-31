@@ -1,0 +1,40 @@
+# Guidelines:
+Does it use radar?
+Does it preferentially use AI?
+Aeronautical context?
+
+# Removal criteria::
+not IA
+not radar
+aerospace/space-borne
+image
+oil spill detection
+trajectory planning
+sea targets
+path planning
+multi target detection
+cooperative
+multisource/data fusion
+change detection
+unidentified duplicates
+monitoring/surveillance
+urban modeling
+change detection
+image restauration
+building damage detection
+deforestation detection
+airport detection
+drone detection -> safety
+surveillance, reconnaissance, and security
+space objects/satellites
+evasive navigation
+landmine detection
+countermeasure strategies
+target detection
+targets detection
+optical satellite images
+infrared thermography
+accident search and rescue
+
+# Notes:
+Some articles, even when excluded during the identification phase, still appear with different, camouflaged terms.
